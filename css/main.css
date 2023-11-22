@@ -1,0 +1,90 @@
+.image-gallery {
+    display: flex;
+  }
+
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .image-gallery > li {
+    flex-basis: 350px;
+  }
+  
+  
+
+ 
+
+  #image1{
+    width: 200px;
+    border-style:ridge;
+  }
+
+  
+
+
+  a:hover {
+    background-color: rgb(204, 0, 255);
+    color: aqua;
+    
+  }
+
+  #image2{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image3{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image4{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image5{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image6{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image7{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image8{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image9{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image10{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image11{
+    width: 200px;
+    border-style:ridge
+  }
+
+  #image12{
+    width: 200px;
+    border-style:ridge
+  }
+
+
+  
